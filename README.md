@@ -22,8 +22,8 @@ Example:
 Kindly specify the desired length for your password.
   Input - 12
   Output - 
-  5mHrWv1Pc3aD
-  9xLsQj2Tp7oE
-  4aRtZg8Yk1oQ
-  6fAsDh9Jr2oQ
-  2nLg5w1Ei7bDJ
+  5mHrWv1PcaD
+  9xLsQj2TpoE
+  4aRtZg8Y1oQ
+  6fAsDh9J2oQ
+  2ng51Ei7bDJ
